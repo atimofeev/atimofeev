@@ -9,6 +9,7 @@ In my free time I enjoy:
 - 🚵‍♂️ Mountain bike
 - 🏗️ 3D printing and making things
 - 🎹 Creating generative music with modular synths
+- 📖 Learning new things
 
 ## 🌱 What I'm currently learning
 
