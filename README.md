@@ -2,7 +2,7 @@
 
 # Hi there, I'm Artem Timofeev👋
 
-I'm a Site Reliability Engineer with a passion for automation and fixing things. 
+I'm a Site Reliability Engineer with a passion for automation and fixing things👷. 
 I enjoy focusing my obsessive attention to detail into impovement of anything✨. 
 
 In my free time I enjoy:
