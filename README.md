@@ -16,6 +16,12 @@ In my free time I enjoy:
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](#)
+[![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FCA121?style=flat&logo=gitlab&logoColor=white)](#)
+
+[![System Design](https://img.shields.io/badge/-System_Design-000000?style=flat&logoColor=white)](#)
+
 ## 🛠️ My tech stack
 
 ### 📚 Version Control
@@ -31,7 +37,7 @@ In my free time I enjoy:
 
 ### 📊 Monitoring & Analysis Tools
 
-[![Zabbix](https://img.shields.io/badge/-Zabbix-107C41?style=flat&logo=zabbix&logoColor=white)](#)
+[![Zabbix](https://img.shields.io/badge/-Zabbix-EE0000?style=flat&logo=zabbix&logoColor=white)](#)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
 
