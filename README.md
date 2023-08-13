@@ -14,7 +14,6 @@ In my free time I enjoy:
 ## 🌱 What I'm currently learning
 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](#)
@@ -31,7 +30,7 @@ In my free time I enjoy:
 [![Subversion](https://img.shields.io/badge/-Subversion-809CC9?style=flat&logo=subversion&logoColor=white)](#)
 
 ### 💻 Programming Languages
-
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)](#)
 
@@ -42,7 +41,7 @@ In my free time I enjoy:
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
 
 
-### ⚙️ Infrastructure as Code
+### ⚙️ Infrastructure and configuration
 
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](#)
