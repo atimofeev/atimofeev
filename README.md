@@ -40,11 +40,11 @@ In my free time I enjoy:
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/atimofeev/learning-python)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/atimofeev/dotfiles)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=amazondynamodb&logoColor=white)](#)
 
 ### 📊 Monitoring & Analysis Tools
 
-[![Zabbix](https://img.shields.io/badge/-Zabbix-EE0000?style=flat&logo=zabbix&logoColor=white)](#)
+[![Zabbix](https://img.shields.io/badge/-Zabbix-EE0000?style=flat&logo=zotero&logoColor=white)](#)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](#)
 
