@@ -64,7 +64,9 @@ In my free time I enjoy:
 
 ### 🚀 CI/CD Tools
 
-[![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat&logo=teamcity&logoColor=white)](#)
+<picture>
+  <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-000000?style=flat&logo=teamcity&logoColor=white">
+</picture>
 
 ### 🌐 Cloud Platforms
 
