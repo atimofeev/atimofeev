@@ -17,9 +17,13 @@ In my free time I enjoy:
 ## 🌱 What I'm currently learning
 
 [![NeoVim](https://img.shields.io/badge/-neovim-1383bb?style=flat&logo=Neovim&logoColor=67b15e)](https://github.com/atimofeev/dotfiles/tree/main/nvim)
-<img alt="Org" src="https://img.shields.io/badge/-Org-8558b7?style=flat&logo=Org&logoColor=77aa99">
+<picture>
+  <img alt="Org" src="https://img.shields.io/badge/-Org-8558b7?style=flat&logo=Org&logoColor=77aa99">
+</picture>
 
-<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?style=flat&logo=kubernetes&logoColor=white">
+<picture>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?style=flat&logo=kubernetes&logoColor=white">
+</picture>
 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?style=flat&logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning-jenkins)
 <picture>
