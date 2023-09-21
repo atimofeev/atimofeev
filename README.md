@@ -16,9 +16,9 @@ In my free time I enjoy:
 
 ## 🌱 What I'm currently learning
 
-[![NeoVim](https://img.shields.io/badge/-neovim-1383bb?style=flat&logo=Neovim&logoColor=67b15e)](https://github.com/atimofeev/dotfiles/tree/main/nvim)
+[![Doom Emacs](https://img.shields.io/badge/-Doom_Emacs-8558b7?style=flat&logo=gnu-emacs&logoColor=3b1b54)](https://github.com/atimofeev/dotfiles/tree/main/doom)
 <picture>
-  <img alt="Org" src="https://img.shields.io/badge/-Org-8558b7?style=flat&logo=Org&logoColor=77aa99">
+  <img alt="Org-mode" src="https://img.shields.io/badge/-Org_Mode-8558b7?style=flat&logo=Org&logoColor=77aa99">
 </picture>
 
 <picture>
