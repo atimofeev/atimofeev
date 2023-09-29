@@ -16,11 +16,6 @@ In my free time I enjoy:
 
 ## 🌱 What I'm currently learning
 
-[![Doom Emacs](https://img.shields.io/badge/-Doom_Emacs-8558b7?style=flat&logo=gnu-emacs&logoColor=3b1b54)](https://github.com/atimofeev/dotfiles/tree/main/doom)
-<picture>
-  <img alt="Org-mode" src="https://img.shields.io/badge/-Org_Mode-8558b7?style=flat&logo=Org&logoColor=77aa99">
-</picture>
-
 <picture>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?style=flat&logo=kubernetes&logoColor=white">
 </picture>
@@ -41,12 +36,8 @@ In my free time I enjoy:
 
 ### 📝 Editor & Notes
 
-<picture>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=Visual-Studio-Code&logoColor=white">
-</picture>
-<picture>
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white">
-</picture>
+[![Doom Emacs](https://img.shields.io/badge/-Doom_Emacs-8558b7?style=flat&logo=gnu-emacs&logoColor=3b1b54)](https://github.com/atimofeev/dotfiles/tree/main/doom)
+[![org-mode](https://img.shields.io/badge/-Org_Mode-8558b7?style=flat&logo=Org&logoColor=77aa99)](https://gitlab.com/a_timofeev/org/)
 
 ### 📚 Version Control
 
