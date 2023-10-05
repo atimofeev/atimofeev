@@ -7,7 +7,7 @@ I enjoy focusing my obsessive attention to detail into impovement of anything✨
 
 In my free time I enjoy:
 
-- 🚵‍♂️ Mountain bike
+- 🚵 Mountain bike
 - 🏗️ 3D printing and making things
 - 🎹 Creating generative music with modular synths
 - 📖 Learning new things
@@ -37,7 +37,10 @@ In my free time I enjoy:
 ### 📝 Editor & Notes
 
 [![Doom Emacs](https://img.shields.io/badge/-Doom_Emacs-8558b7?style=flat&logo=gnu-emacs&logoColor=3b1b54)](https://github.com/atimofeev/dotfiles/tree/main/doom)
-[![org-mode](https://img.shields.io/badge/-Org_Mode-8558b7?style=flat&logo=Org&logoColor=77aa99)](https://gitlab.com/a_timofeev/org/)
+<picture>
+  <img alt="Org-mode" src="https://img.shields.io/badge/-Org_Mode-8558b7?style=flat&logo=Org&logoColor=77aa99">
+</picture>
+
 
 ### 📚 Version Control
 
