@@ -112,10 +112,10 @@ In my free time I enjoy:
 
 ### 🚀 CI/CD Tools
 
+[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning-jenkins)
 <picture>
   <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=05b3ed">
 </picture>
-[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning-jenkins)
 <picture>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white">
 </picture>
