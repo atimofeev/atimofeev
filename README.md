@@ -17,15 +17,20 @@ In my free time I enjoy:
 ## 🌱 What I'm currently learning
 
 <picture>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
+</picture>
+
+<picture>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?logo=kubernetes&logoColor=white">
 </picture>
 
-[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning-jenkins)
-<picture>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white">
-</picture>
+[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning/tree/main/jenkins)
 <picture>
   <img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=e34930">
+</picture>
+
+<picture>
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-d82c20?logo=redis&logoColor=ffffff">
 </picture>
 
 <picture>
@@ -58,7 +63,7 @@ In my free time I enjoy:
 
 ### 💻 Programming Languages
 
-[![Python](https://img.shields.io/badge/-Python-346c99?logo=python&logoColor=ffcd3a)](https://github.com/atimofeev/learning-python)
+[![Python](https://img.shields.io/badge/-Python-346c99?logo=python&logoColor=ffcd3a)](https://github.com/atimofeev/learning/tree/main/python)
 [![Bash](https://img.shields.io/badge/-Bash-232c34?logo=gnu-bash&logoColor=4ca920)](https://github.com/atimofeev/dotfiles)
 <picture>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?logo=JavaScript&logoColor=000000">
@@ -66,10 +71,8 @@ In my free time I enjoy:
 
 ### ⚙️ Infrastructure and configuration
 
-[![Terraform](https://img.shields.io/badge/-Terraform-7b42bc?logo=terraform&logoColor=white)](https://github.com/atimofeev/learning-terraform)
-<picture>
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=151515">
-</picture>
+[![Terraform](https://img.shields.io/badge/-Terraform-7b42bc?logo=terraform&logoColor=white)](https://github.com/atimofeev/learning/tree/main/terraform)
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=151515)](https://github.com/atimofeev/learning/tree/main/ansible/)
 
 ### 📦 Containerization & Orchestration
 
@@ -89,13 +92,13 @@ In my free time I enjoy:
   <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-cd0000?logo=zotero&logoColor=white">
 </picture>
 <picture>
-  <img alt="ELK" src="https://img.shields.io/badge/-ELK-38bfb0?logo=elasticsearch&logoColor=f0c000">
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-e0502c?logo=prometheus&logoColor=ffffff">
 </picture>
 <picture>
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-f05a23?logo=grafana&logoColor=fbc803">
 </picture>
 <picture>
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-e0502c?logo=prometheus&logoColor=ffffff">
+  <img alt="ELK" src="https://img.shields.io/badge/-ELK-38bfb0?logo=elasticsearch&logoColor=f0c000">
 </picture>
 
 ### 🗄️ Databases
@@ -112,12 +115,10 @@ In my free time I enjoy:
 
 ### 🚀 CI/CD Tools
 
-[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning-jenkins)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white)](https://github.com/atimofeev/learning-github-actions)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning/tree/main/jenkins)
 <picture>
   <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=05b3ed">
-</picture>
-<picture>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white">
 </picture>
 <picture>
   <img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=e34930">
@@ -125,7 +126,7 @@ In my free time I enjoy:
 
 ### 🌐 Cloud Platforms
 
-[![AWS](https://img.shields.io/badge/-AWS-ff9c08?logo=amazon-aws&logoColor=2c3644)](https://github.com/atimofeev/learning-terraform)
+[![AWS](https://img.shields.io/badge/-AWS-ff9c08?logo=amazon-aws&logoColor=2c3644)](https://github.com/atimofeev/learning/tree/main/terraform)
 
 ## 📫 How to reach me
 
