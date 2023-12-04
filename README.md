@@ -110,7 +110,7 @@ In my free time I enjoy:
   <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-ff9c08?logo=amazonrds&logoColor=21405c">
 </picture>
 <picture>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-396c94?logo=mysql&logoColor=e48e00">
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-d82c20?logo=redis&logoColor=ffffff">
 </picture>
 
 ### 🚀 CI/CD Tools
