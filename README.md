@@ -8,7 +8,7 @@ I enjoy focusing my obsessive attention to detail into impovement of anything✨
 In my free time I enjoy:
 
 - 🚵 Mountain bike
-- 🏗 3D printing and making things
+- 🏗️ 3D printing and making things
 - 🎹 Creating generative music with modular synths
 - 📖 Learning new things
 
@@ -34,7 +34,7 @@ In my free time I enjoy:
   <img alt="System Design" src="https://img.shields.io/badge/-System_Design-000000?logoColor=white">
 </picture>
 
-## 🛠 My tech stack
+## 🛠️ My tech stack
 
 ### 📝 Editor & Notes
 
@@ -66,7 +66,7 @@ In my free time I enjoy:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?logo=JavaScript&logoColor=000000">
 </picture>
 
-### ⚙ Infrastructure and configuration
+### ⚙️ Infrastructure and configuration
 
 [![Terraform](https://img.shields.io/badge/-Terraform-7b42bc?logo=terraform&logoColor=white)](https://github.com/atimofeev/learning/tree/main/terraform)
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=151515)](https://github.com/atimofeev/learning/tree/main/ansible/)
@@ -98,7 +98,7 @@ In my free time I enjoy:
   <img alt="ELK" src="https://img.shields.io/badge/-ELK-38bfb0?logo=elasticsearch&logoColor=f0c000">
 </picture>
 
-### 🗄 Databases
+### 🗄️ Databases
 
 <picture>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-396c94?logo=postgresql&logoColor=white">
