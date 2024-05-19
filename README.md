@@ -75,9 +75,6 @@ In my free time I enjoy:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-396c94?logo=postgresql&logoColor=white">
 </picture>
 <picture>
-  <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-ff9c08?logo=amazonrds&logoColor=21405c">
-</picture>
-<picture>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
 </picture>
 <picture>
@@ -104,11 +101,18 @@ In my free time I enjoy:
 <img alt="Hetzner" src="https://img.shields.io/badge/-Hetzner-000000?logo=Hetzner&logoColor=D50C2D">
 </picture>
 
-## 🕰️Future plans to learn
+## 🕰️Future plans
 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning/tree/main/jenkins)
 <picture>
 <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
+</picture>
+<picture>
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=FC4530">
+</picture>
+
+<picture>
+<img alt="GCP" src="https://img.shields.io/badge/-GCP-3D84EF?logo=googlecloud&logoColor=CCCCCC">
 </picture>
 
 ## 📫 How to reach me
