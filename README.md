@@ -30,9 +30,7 @@ In my free time I enjoy:
 
 [![Bash](https://img.shields.io/badge/-Bash-232c34?logo=gnu-bash&logoColor=4ca920)](https://github.com/atimofeev/dotfiles)
 [![Python](https://img.shields.io/badge/-Python-346c99?logo=python&logoColor=ffcd3a)](https://github.com/atimofeev/learning/tree/main/python)
-<picture>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?logo=JavaScript&logoColor=000000">
-</picture>
+[![Nix](https://img.shields.io/badge/-Nix-7AB4DD?logo=NixOs&logoColor=4F73BD)](https://github.com/atimofeev/nixos-config)
 
 ### ⚙️ Infrastructure and configuration
 
