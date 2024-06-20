@@ -49,7 +49,7 @@ In my free time I enjoy:
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?logo=kubernetes&logoColor=white">
 </picture>
 <picture>
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?logo=Proxmox&logoColor=white">
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?logo=Proxmox&logoColor=black">
 </picture>
 
 ### 📊 Monitoring & Analysis Tools
@@ -78,9 +78,6 @@ In my free time I enjoy:
 <picture>
   <img alt="Clickhouse" src="https://img.shields.io/badge/-Clickhouse-FFCC01?logo=Clickhouse&logoColor=white">
 </picture>
-<picture>
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-d82c20?logo=redis&logoColor=ffffff">
-</picture>
 
 ### 🚀 CI/CD Tools
 
@@ -94,7 +91,7 @@ In my free time I enjoy:
 
 ### 🌐 Cloud Platforms
 
-[![AWS](https://img.shields.io/badge/-AWS-ff9c08?logo=amazon-aws&logoColor=2c3644)](https://github.com/atimofeev/learning/tree/main/terraform)
+[![AWS](https://img.shields.io/badge/-AWS-2c3644?logo=amazonwebservices&logoColor=ff9c08)](https://github.com/atimofeev/learning/tree/main/terraform)
 <picture>
 <img alt="Hetzner" src="https://img.shields.io/badge/-Hetzner-000000?logo=Hetzner&logoColor=D50C2D">
 </picture>
