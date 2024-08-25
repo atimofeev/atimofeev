@@ -34,16 +34,13 @@ In my free time I enjoy:
 
 ### ⚙️ Infrastructure and configuration
 
-[![Terraform](https://img.shields.io/badge/-Terraform-7b42bc?logo=terraform&logoColor=white)](https://github.com/atimofeev/learning/tree/main/terraform)
+[![OpenTofu](https://img.shields.io/badge/-OpenTofu-E6C427?logo=opentofu&logoColor=0D1A2B)](https://github.com/atimofeev/learning/tree/main/terraform)
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=151515)](https://github.com/atimofeev/learning/tree/main/ansible/)
 
 ### 📦 Containerization, Orchestration & Virtualization
 
 <picture>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-086dd7?logo=docker&logoColor=white">
-</picture>
-<picture>
-  <img alt="Nomad" src="https://img.shields.io/badge/-Nomad-2cbc85?logo=hashicorp&logoColor=black">
 </picture>
 <picture>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?logo=kubernetes&logoColor=white">
@@ -73,10 +70,10 @@ In my free time I enjoy:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-396c94?logo=postgresql&logoColor=white">
 </picture>
 <picture>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-082532?logo=mongodb&logoColor=08EE69">
 </picture>
 <picture>
-  <img alt="Clickhouse" src="https://img.shields.io/badge/-Clickhouse-FFCC01?logo=Clickhouse&logoColor=white">
+  <img alt="Clickhouse" src="https://img.shields.io/badge/-Clickhouse-1C1C1C?logo=Clickhouse&logoColor=FFCC01">
 </picture>
 
 ### 🚀 CI/CD Tools
@@ -96,7 +93,7 @@ In my free time I enjoy:
 <img alt="Hetzner" src="https://img.shields.io/badge/-Hetzner-000000?logo=Hetzner&logoColor=D50C2D">
 </picture>
 
-## 🕰️Future plans
+## 🕰️ Future plans
 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning/tree/main/jenkins)
 <picture>
