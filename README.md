@@ -95,14 +95,17 @@ In my free time I enjoy:
 
 ## 🕰️ Future plans
 
-[![Jenkins](https://img.shields.io/badge/-Jenkins-e4313e?logo=jenkins&logoColor=white)](https://github.com/atimofeev/learning/tree/main/jenkins)
 <picture>
 <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
 </picture>
 <picture>
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=FC4530">
 </picture>
-
+<br>
+<picture>
+<img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-C9F5FF?logo=argo&logoColor=FF723E">
+</picture>
+<br>
 <picture>
 <img alt="GCP" src="https://img.shields.io/badge/-GCP-3D84EF?logo=googlecloud&logoColor=CCCCCC">
 </picture>
