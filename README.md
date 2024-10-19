@@ -2,14 +2,14 @@
 
 # Hi there, I'm Artem Timofeev👋
 
-I'm a DevOps Engineer with a passion for technology, automation and fixing things👷. \
-I enjoy focusing my obsessive attention to detail into impovement of anything✨.
+I'm a DevOps Engineer with a passion for technology, automation and fixing things👷 \
+I enjoy focusing my obsessive attention to detail into improvement of anything✨
 
 In my free time I enjoy:
 
-- 🚵 Mountain bike
-- 🏗️ 3D printing and making things
 - 🎹 Creating generative music with modular synths
+- 🏗️ 3D printing and making things
+- 🚵 Mountain bike
 - 📖 Learning new things
 
 <em>Note: Some shields below are clickable and lead to corresponding repositories or config files.</em>
@@ -29,10 +29,10 @@ In my free time I enjoy:
 ### 💻 Programming Languages
 
 [![Bash](https://img.shields.io/badge/-Bash-232c34?logo=gnu-bash&logoColor=4ca920)](https://github.com/atimofeev/dotfiles)
-[![Python](https://img.shields.io/badge/-Python-346c99?logo=python&logoColor=ffcd3a)](https://github.com/atimofeev/learning/tree/main/python)
 [![Nix](https://img.shields.io/badge/-Nix-7AB4DD?logo=NixOs&logoColor=4F73BD)](https://github.com/atimofeev/nixos-config)
+[![Python](https://img.shields.io/badge/-Python-346c99?logo=python&logoColor=ffcd3a)](https://github.com/atimofeev/learning/tree/main/python)
 
-### ⚙️ Infrastructure and configuration
+### ⚙️ Infrastructure & Configuration
 
 [![OpenTofu](https://img.shields.io/badge/-OpenTofu-E6C427?logo=opentofu&logoColor=0D1A2B)](https://github.com/atimofeev/learning/tree/main/terraform)
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=151515)](https://github.com/atimofeev/learning/tree/main/ansible/)
@@ -78,17 +78,22 @@ In my free time I enjoy:
 
 ### 🚀 CI/CD Tools
 
-[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white)](https://github.com/atimofeev/learning-github-actions)
 <picture>
 <img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=e34930">
 </picture>
 <picture>
 <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=05b3ed">
 </picture>
+<picture>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white">
+</picture>
 
 ### 🌐 Cloud Platforms
 
 [![AWS](https://img.shields.io/badge/-AWS-2c3644?logo=amazonwebservices&logoColor=ff9c08)](https://github.com/atimofeev/learning/tree/main/terraform)
+<picture>
+<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-ffffff?logo=cloudflare&logoColor=F38020">
+</picture>
 <picture>
 <img alt="Hetzner" src="https://img.shields.io/badge/-Hetzner-000000?logo=Hetzner&logoColor=D50C2D">
 </picture>
