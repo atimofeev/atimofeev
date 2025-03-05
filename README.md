@@ -101,6 +101,10 @@ In my free time I enjoy:
 ## 🕰️ Future plans
 
 <picture>
+<img alt="Talos" src="https://img.shields.io/badge/-Talos-25292E?logo=talos&logoColor=FF7300">
+</picture>
+<br>
+<picture>
 <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
 </picture>
 <picture>
