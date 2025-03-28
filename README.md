@@ -57,12 +57,6 @@ In my free time I enjoy:
 <picture>
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-f05a23?logo=grafana&logoColor=fbc803">
 </picture>
-<picture>
-  <img alt="ELK" src="https://img.shields.io/badge/-ELK-38bfb0?logo=elasticsearch&logoColor=f0c000">
-</picture>
-<picture>
-  <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-cd0000?logo=zotero&logoColor=white">
-</picture>
 
 ### 🗄️ Databases
 
