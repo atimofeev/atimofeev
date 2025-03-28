@@ -73,13 +73,10 @@ In my free time I enjoy:
 ### 🚀 CI/CD Tools
 
 <picture>
-<img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=e34930">
+  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab&logoColor=e34930">
 </picture>
 <picture>
-<img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=05b3ed">
-</picture>
-<picture>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-278cff?logo=github-actions&logoColor=white">
+  <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-C9F5FF?logo=argo&logoColor=FF723E">
 </picture>
 
 ### 🌐 Cloud Platforms
@@ -106,7 +103,13 @@ In my free time I enjoy:
 </picture>
 <br>
 <picture>
-<img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-C9F5FF?logo=argo&logoColor=FF723E">
+  <img alt="VictoriaMetrics" src="https://img.shields.io/badge/-VictoriaMetrics-621773?logo=victoriametrics&logoColor=black">
+</picture>
+<picture>
+  <img alt="OpenSearch" src="https://img.shields.io/badge/-OpenSearch-003553?logo=opensearch&logoColor=005EB8">
+</picture>
+<picture>
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/-OpenTelemetry-5164AE?logo=opentelemetry&logoColor=F6AB24">
 </picture>
 <br>
 <picture>
