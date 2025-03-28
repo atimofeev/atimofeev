@@ -101,14 +101,14 @@ In my free time I enjoy:
 ## 🕰️ Future plans
 
 <picture>
-<img alt="Talos" src="https://img.shields.io/badge/-Talos-25292E?logo=talos&logoColor=FF7300">
+  <img alt="Talos" src="https://img.shields.io/badge/-Talos-25292E?logo=talos&logoColor=FF7300">
 </picture>
 <br>
 <picture>
-<img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
 </picture>
 <picture>
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=FC4530">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=FC4530">
 </picture>
 <br>
 <picture>
@@ -116,7 +116,7 @@ In my free time I enjoy:
 </picture>
 <br>
 <picture>
-<img alt="GCP" src="https://img.shields.io/badge/-GCP-3D84EF?logo=googlecloud&logoColor=CCCCCC">
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-3D84EF?logo=googlecloud&logoColor=CCCCCC">
 </picture>
 
 ## 📫 How to reach me
