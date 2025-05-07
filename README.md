@@ -12,7 +12,7 @@ In my free time I enjoy:
 - 🚵 Mountain bike
 - 📖 Learning new things
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=atimofeev&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=atimofeev&theme=catppuccin-mocha&fire=f38ba8)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atimofeev&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 <em>Note: Some shields below are clickable and lead to corresponding repositories or config files.</em>
