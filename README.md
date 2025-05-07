@@ -12,6 +12,9 @@ In my free time I enjoy:
 - 🚵 Mountain bike
 - 📖 Learning new things
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=atimofeev&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atimofeev&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
 <em>Note: Some shields below are clickable and lead to corresponding repositories or config files.</em>
 
 ## 🌱 What I'm currently learning
