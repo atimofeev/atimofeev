@@ -40,16 +40,13 @@ In my free time I enjoy:
 [![OpenTofu](https://img.shields.io/badge/-OpenTofu-E6C427?logo=opentofu&logoColor=0D1A2B)](https://github.com/atimofeev/learning/tree/main/terraform)
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=151515)](https://github.com/atimofeev/learning/tree/main/ansible/)
 
-### 📦 Containerization, Orchestration & Virtualization
+### 📦 Containerization & Orchestration
 
 <picture>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-086dd7?logo=docker&logoColor=white">
 </picture>
 <picture>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?logo=kubernetes&logoColor=white">
-</picture>
-<picture>
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?logo=Proxmox&logoColor=black">
 </picture>
 
 ### 📊 Monitoring & Analysis Tools
