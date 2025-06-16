@@ -22,9 +22,8 @@ In my free time I enjoy:
 <picture>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316ce6?logo=kubernetes&logoColor=white">
 </picture>
-
 <picture>
-  <img alt="System Design" src="https://img.shields.io/badge/-System_Design-000000?logoColor=white">
+  <img alt="Talos" src="https://img.shields.io/badge/-Talos-25292E?logo=talos&logoColor=FF7300">
 </picture>
 
 ## 🛠️ My tech stack
@@ -91,10 +90,6 @@ In my free time I enjoy:
 
 ## 🕰️ Future plans
 
-<picture>
-  <img alt="Talos" src="https://img.shields.io/badge/-Talos-25292E?logo=talos&logoColor=FF7300">
-</picture>
-<br>
 <picture>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?logo=go&logoColor=white">
 </picture>
