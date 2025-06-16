@@ -101,7 +101,7 @@ In my free time I enjoy:
   <img alt="VictoriaMetrics" src="https://img.shields.io/badge/-VictoriaMetrics-621773?logo=victoriametrics&logoColor=black">
 </picture>
 <picture>
-  <img alt="OpenSearch" src="https://img.shields.io/badge/-OpenSearch-003553?logo=opensearch&logoColor=005EB8">
+  <img alt="VictoriaLogs" src="https://img.shields.io/badge/-VictoriaLogs-621773?logo=victoriametrics&logoColor=black">
 </picture>
 <picture>
   <img alt="OpenTelemetry" src="https://img.shields.io/badge/-OpenTelemetry-5164AE?logo=opentelemetry&logoColor=F6AB24">
