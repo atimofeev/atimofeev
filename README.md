@@ -7,10 +7,11 @@ I enjoy focusing my obsessive attention to detail into improvement of anything�
 
 In my free time I enjoy:
 
-- 🎹 Creating generative music with modular synths
-- 🏗️ 3D printing and making things
-- 🚵 Mountain bike
-- 📖 Learning new things
+- 📖 Learning new things: love challenge of the uncharted territories
+- 💾 Home lab: on path towards being fully self-hosted and open-source
+- 🎹 Music creation: generative ambient and noise
+- 🏗️ DYI projects: electronics, 3D modeling and 3D printing
+- 🚵 Moutain bike: 10 years of experience in Downhill, Enduro, Pump Track and BMX racing
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=atimofeev&theme=catppuccin-mocha&fire=f38ba8)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atimofeev&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
