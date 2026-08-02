@@ -14,7 +14,7 @@ In my free time I enjoy:
 - 🚵 Moutain bike: 10 years of experience in Downhill, Enduro, Pump Track and BMX racing
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=atimofeev&theme=catppuccin-mocha&fire=f38ba8)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atimofeev&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atimofeev&layout=compact&theme=catppuccin_mocha)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <em>Note: Some shields below are clickable and lead to corresponding repositories or config files.</em>
 
